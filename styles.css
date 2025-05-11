@@ -1,13 +1,13 @@
 :root {
-    --bg-color: #1fc6e3;
-    --card-color: #111111;
-    --text-color: #ffffff;
-    --primary-color: #00ffdc;
-    --secondary-color: #00ffff;
-    --accent-color: #00ffdc;
-    --glow-color: rgba(0, 107, 179, 0.5);
-    --player-bg: rgba(17, 17, 17, 0.85);
-    --player-border: rgba(255, 255, 255, 0.1);
+    --bg-color: #1a1b2f;              /* Тёмный индиго */
+    --card-color: #23243a;           /* Глубокий фиолетово-серый */
+    --text-color: #e5e5f1;           /* Мягкий светлый серо-белый */
+    --primary-color: #6c63ff;        /* Яркий фиолетовый */
+    --secondary-color: #38e4ae;      /* Яркий бирюзовый */
+    --accent-color: #9c27b0;         /* Глубокий пурпурный */
+    --glow-color: rgba(108, 99, 255, 0.4); /* Фиолетовое свечение */
+    --player-bg: rgba(35, 36, 58, 0.9);    /* Прозрачный тёмный фон */
+    --player-border: rgba(255, 255, 255, 0.08); /* Очень лёгкая рамка */
     --beat-intensity: 0;
 }
 
